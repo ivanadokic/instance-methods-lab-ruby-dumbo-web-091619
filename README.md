@@ -1,7 +1,8 @@
 # Instance Methods Lab Ruby
 
 ## Learning Goals
-
+class Dog
+end
 - Define a class.
 - Build instance methods for the class.
 
