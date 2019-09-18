@@ -1,4 +1,4 @@
 def class Dog 
   fido bark.new 
-  fid
+  fido 
 end
